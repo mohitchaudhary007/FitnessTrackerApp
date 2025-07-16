@@ -10,32 +10,17 @@ A comprehensive fitness tracking application to help you monitor your workouts, 
 
 ## Screenshots
 
-### Home Page
-![Home Page](assets/HomePage.png)
-
-### Workout Page
-![Workout Page](assets/WorkoutPage.png)
-
-### Steps Page
-![Steps Page](assets/StepsPage.png)
-
-### Water Intake Page
-![Water Intake Page](assets/WaterIntakePage.png)
-
-### Today's Workouts
-![Today's Workouts](assets/Today'sWorkouts.png)
-
-### Log Workout
-![Log Workout](assets/LogWorkOut.png)
-
-### Profile
-![Profile](assets/Profile.png)
-
-### Settings
-![Settings](assets/SettingPage.png)
-
-### Change Password
-![Change Password](assets/ChangePasswordSetting.png)
+<p align="center">
+  <img src="assets/HomePage.png" alt="Home Page" width="120"/>
+  <img src="assets/WorkoutPage.png" alt="Workout Page" width="120"/>
+  <img src="assets/StepsPage.png" alt="Steps Page" width="120"/>
+  <img src="assets/WaterIntakePage.png" alt="Water Intake Page" width="120"/>
+  <img src="assets/Today'sWorkouts.png" alt="Today's Workouts" width="120"/>
+  <img src="assets/LogWorkOut.png" alt="Log Workout" width="120"/>
+  <img src="assets/Profile.png" alt="Profile" width="120"/>
+  <img src="assets/SettingPage.png" alt="Settings" width="120"/>
+  <img src="assets/ChangePasswordSetting.png" alt="Change Password" width="120"/>
+</p>
 
 ---
 
