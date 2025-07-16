@@ -22,17 +22,6 @@ A comprehensive fitness tracking application to help you monitor your workouts, 
   <img src="assets/ChangePasswordSetting.png" alt="Change Password" width="120"/>
 </p>
 
----
-
-## App Icons
-
-![App Icon](assets/icon.png)
-![Adaptive Icon](assets/adaptive-icon.png)
-![Splash Icon](assets/splash-icon.png)
-![Favicon](assets/favicon.png)
-
----
-
 ## Getting Started
 
 1. Clone the repository
